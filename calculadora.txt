@@ -1,2 +1,8 @@
 // Versión Base de la Calculadora
+<<<<<<< HEAD
 [Operación] Función Suma Implementada.
+=======
+
+
+[Operación] Función Resta Implementada.
+>>>>>>> feature/resta
